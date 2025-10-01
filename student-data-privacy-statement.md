@@ -54,9 +54,9 @@ We may share Student Data in the following ways:
 
 We may use data which has been de-identified and/or aggregated for product development, research analytics, and other purposes, including for the purpose of analyzing, improving, or marketing the Jupyter Everywhere Services. If Jupyter Everywhere publicly discloses or shares with third parties (e.g., in marketing materials, published research, analytics, or in application development) information that is derived from Student Data, then (i) such data will be aggregated and/or anonymized to reasonably avoid identification of a specific School or individual and (ii) Jupyter Everywhere will seek contractual limits on such third parties preventing reidentification of de-identified data.
 
-## Questions about access or deletion of data
+## Questions about deletion of data
 
-Students may access, update, or correct Student Data by logging into the student’s account. Parents / guardians may request to access, correct, and update a student’s data. If you have any questions about reviewing, modifying, or deleting personal information of a Student, please contact your School or [contact@skewthescript.org](mailto:contact@skewthescript.org).
+If you have any questions about reviewing, modifying, or deleting personal information of a Student, please contact your School or [contact@skewthescript.org](mailto:contact@skewthescript.org).
 
 ## Children's Data
 
