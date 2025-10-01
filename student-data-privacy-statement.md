@@ -1,12 +1,12 @@
 # Jupyter Everywhere Student Data Privacy Statement
 
-This Student Data Privacy Statement explains how Jupyter Everywhere (**“Jupyter Everywhere”**, **“we”**, **“us”**, and **“our”**) collects, protects and processes Student Data (defined below).
+This Student Data Privacy Statement explains how Jupyter Everywhere (**“Jupyter Everywhere”**, **"JE"**, **“we”**, **“us”**, and **“our”**) collects, protects and processes Student Data (defined below).
 
-This Student Data Privacy Statement also details our compliance with respect to the applicable requirements of the Children’s Online Privacy Protection Act (**“COPPA”**), the California Consumer Privacy Act (**“CCPA”**), the Family Educational Rights and Privacy Act (**“FERPA”**), the California Student Online Personal Information Protection Act (**“SOPIPA”**), the EU’s General Data Protection Regulation (**“GDPR”**), and other applicable laws.
+This Student Data Privacy Statement also details our compliance with respect to the applicable requirements of the Children’s Online Privacy Protection Act (**“COPPA”**), the California Consumer Privacy Act (**“CCPA”**), the Family Educational Rights and Privacy Act (**“FERPA”**), the California Student Online Personal Information Protection Act (**“SOPIPA”**), and other applicable laws.
 
 The Jupyter Everywhere Services may be used by third party providers of educational services, such as schools, school districts, school systems, teachers or other instructors (collectively referred to as **“Schools”**). There may be different contractual terms or privacy policies in place with some of our School customers. Such other terms or policies may supersede this Student Data Privacy Statement for information collected or processed under those terms. If you have any questions as to which legal agreement or privacy policy controls the collection and use of your information, please contact your School or us.
 
-When a School uses the [Jupyter Everywhere Graphing Notebook](/graphing), future standalone tools to come, and any apps associated with the Jupyter Everywhere Services (together, the **“Advanced Jupyter Everywhere Tools”**) with students in the classroom (**“Students”**), we may have access to Student Data. **“Student Data”** is any information that is directly related to an identifiable current or former student that is maintained by a school, school district, or related entity or organization, or by us.
+When a School uses Jupyter Everywhere notebooks, future standalone tools to come, and any apps associated with the Jupyter Everywhere Services (together, the **“Jupyter Everywhere Tools”**) with students in the classroom (**“Students”**), we may have access to Student Data. **“Student Data”** is any information that is directly related to an identifiable current or former student that is maintained by a school, school district, or related entity or organization, or by us.
 
 Student Data may include “educational records” as defined in the Family Educational Rights and Privacy Act (**“FERPA”**). We consider Student Data to be highly confidential.
 
@@ -17,14 +17,12 @@ Our collection and use of Student Data through Jupyter Everywhere Services are g
 The privacy of personally identifiable student information is very important to us. We are honored that our School customers choose Jupyter Everywhere as a trusted educational service provider and we strive to live by high data privacy and security standards. When we have access to the personal information of students, we commit to the following data privacy principles:
 
 - Jupyter Everywhere collects, stores, processes, and shares Student Data only for the purposes of providing our Services, or as authorized by a School or a parent / guardian.
-- Jupyter Everywhere does not use or share Student Data or content for marketing or advertising purposes, except with explicit school or parental / guardian consent.
 - Jupyter Everywhere does not sell Student Data.
 - Jupyter Everywhere does not use or disclose Student Data for targeted advertising purposes.
 - Jupyter Everywhere will maintain a comprehensive data security program designed to protect the types of Student Data maintained by Jupyter Everywhere.
 - Jupyter Everywhere will not knowingly retain Student Data beyond the time period required to support the school’s purpose, unless authorized by the parent/student.
 - Jupyter Everywhere will delete or de-identify Student Data at the direction or request of the school.
 - Jupyter Everywhere will clearly and transparently disclose our data policies and practices.
-- Jupyter Everywhere will not make any material changes to our [Privacy Policy](/privacy) or [Terms of Service](/terms) that relate to the collection or use of Student Data without first giving notice to the school or parent and providing a choice before the Student Data is used in a materially different manner than was disclosed when the information was collected.
 
 If you have any questions, please contact us at [contact@skewthescript.org](mailto:contact@skewthescript.org).
 
@@ -36,7 +34,7 @@ We consider Student Data to be highly confidential and use this data solely to p
 
 ## How do we use Student Data?
 
-We use Student Data to provide the Jupyter Everywhere Services to the School and for other limited purposes permitted by our agreements with the Schools, such as to evaluate, improve, and develop our products, applications, and services. All Student Data that we collect or have access to is owned and controlled Jupyter Everywhere. We do not use Student Data for marketing purposes or to engage in targeted advertising.
+We use Student Data to provide the Jupyter Everywhere Services to the School and for other limited purposes permitted by our agreements with the Schools, such as to evaluate, improve, and develop our products, applications, and services. All Student Data that we collect or have access to is owned and controlled Jupyter Everywhere. We do not use Student Data to engage in targeted advertising.
 
 ## Do we share Student Data with third parties?
 
@@ -60,10 +58,10 @@ If you have any questions about reviewing, modifying, or deleting personal infor
 
 ## Children's Data
 
-Our Advanced Jupyter Everywhere Tools are not directed to children under 13 unless and until a School or parent has provided appropriate consent and authorization for a student under 13 to use the Services and for Jupyter Everywhere to collect information from such students. Jupyter Everywhere relies on each School to obtain and provide appropriate consent and disclosures, if necessary, to collect any student information directly from students, as permitted by the Children’s Online Privacy Protection Act (COPPA).
+Our Jupyter Everywhere Tools are not directed to children under 13 unless and until a School or parent has provided appropriate consent and authorization for a student under 13 to use the Services and for Jupyter Everywhere to collect information from such students. Jupyter Everywhere relies on each School to obtain and provide appropriate consent and disclosures, if necessary, to collect any student information directly from students, as permitted by the Children’s Online Privacy Protection Act (COPPA).
 
 ## Privacy Policy Changes with respect to Student Data
 
-Because we continue to develop the Jupyter Everywhere Services and take advantage of technologies to improve the Services we provide, our policies will change over time. We will note the effective date of the policy at the bottom of this page, and you should review this page periodically for any changes. If you do not choose to accept the changes, you may reach out to delete your infromation.
+Because we continue to develop the Jupyter Everywhere Services and take advantage of technologies to improve the Services we provide, our policies will change over time. We will note the effective date of the policy at the bottom of this page, and you should review this page periodically for any changes. If you do not choose to accept the changes, you may reach out to delete your information.
 
 This document was last modified on September 29, 2025.
