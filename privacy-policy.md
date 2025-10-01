@@ -92,7 +92,7 @@ If we merge, sell, or otherwise transfer all or a portion of our business, we wi
 
 <h2 id="choices">6. Your Choices and Rights</h2>
 
-<div class="summary-highlight"><strong>Summary</strong>: You may choose not to provide Personal Data, you may review, change, or terminate your account at any time.</div>
+<div class="summary-highlight"><strong>Summary</strong>: You may choose not to provide Personal Data, you may terminate your notebook at any time.</div>
 
 You may decline to submit Personal Data through and to our Service, in which case Jupyter Everywhere may not be able to provide certain parts of the Service to you. If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [contact@skewthescript.org](mailto:contact@skewthescript.org). We may not be able to modify or delete your information in all circumstances.
 
@@ -120,13 +120,13 @@ Pursuant to Article 27 of the UK GDPR, Desmos Studio PBC has appointed EDPO UK L
 
 <div class="summary-highlight"><strong>Summary</strong>: We aim to protect your Personal Data through a system of organizational and technical security measures.</div>
 
-We care about the security of your Personal Data and employ physical, administrative, contractual, and technological safeguards designed to preserve the integrity and security of all information collected through our Service. Access to information is limited (through user/password credentials and, in some cases, two factor authentication) to those employees who require it to perform their job functions. We use industry standard SSL (secure socket layer technology) encryption to transfer Personal Data. Other security safeguards include but are not limited to data encryption, firewalls, physical access controls to buildings and files, and employee training. In addition, we enter into contracts with all third-party entities or agents that participate in an onward transfer of Personal Data, and seek contractual security assurances from such third parties. You can help protect against unauthorized access to your account and Personal Data by selecting and protecting your notebook data appropriately and limiting access to your computer and browser after you have finished accessing your notebook.
+We care about the security of your Personal Data and employ physical, administrative, contractual, and technological safeguards designed to preserve the integrity and security of all information collected through our Service. Access to information is limited to those employees who require it to perform their job functions. We use industry standard SSL (secure socket layer technology) encryption to transfer Personal Data. Other security safeguards include but are not limited to data encryption, firewalls, physical access controls to buildings and files, and employee training. In addition, we enter into contracts with all third-party entities or agents that participate in an onward transfer of Personal Data, and seek contractual security assurances from such third parties. You can help protect against unauthorized access to your Personal Data by selecting and protecting your notebook data appropriately and limiting access to your computer and browser after you have finished accessing your notebook.
 
 <h2 id="keep-information">8. How Long We Keep Your Information</h2>
 
 <div class="summary-highlight"><strong>Summary</strong>: We keep your Personal Data for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless otherwise required by law.</div>
 
-We will only keep your Personal Data for as long as it is necessary for the purposes set out in this Privacy Policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your Personal Data connected to your account for longer than 90 days past the termination of your account.
+We will only keep your Personal Data for as long as it is necessary for the purposes set out in this Privacy Policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your Personal Data for longer than 90 days past the termination of your notebook.
 
 When we have no ongoing legitimate business need to process your Personal Data, we will either delete or anonymize it, or, if this is not possible (for example, because your Personal Data has been stored in backup archives), then we will securely store your Personal Data and isolate it from any further processing until deletion is possible.
 
